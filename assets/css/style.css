@@ -4,6 +4,7 @@ body {
     color: #3a3a3a;
 }
 
+ main
 img {
     object-fit: contain
 }
@@ -34,4 +35,32 @@ footer{
     padding: 1%;
     color: #3a3a3a;
     
+=======
+/* Navbar */
+
+.navbar {
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+.navbar-nav li {
+    padding: 15px;
+}
+
+.navbar-nav li a {
+    font-size: 20px;
+}
+
+/* Carousel */
+
+#carousel {
+    height: 500px;
+    width: 100%;
+}
+
+.carousel-container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+ main
 }
