@@ -1,10 +1,10 @@
-# <<website_name>>
+# Support Change
 ​
-## Team Name: <<team_name>>
+## Team Name: Code In Action
 ​
 [Link to Deployed Project](<<add_deployed_link_to_project_here>>)
 ​
-## Contents(#contents)
+## Contents
 ​
 * [User Experience (UX)](#user-experience)
   * [User Stories](#user-stories)
@@ -23,19 +23,31 @@
   * [Acknowledgements](#acknowledgements)
 ​
 ## User Experience
-<< what paradigms of user experience did you consider, and cater to? >>
+* Easily navigate website content and pages.
+* Contact the company to inquire for more information or to provide sponsorship.
+* Access links to NGO websites, sorted into different catagories, allowing the oppurtunity to easily donate, volunteer or find out more information.
+
 ​
 ### User stories
+* As a user of the Support Change website, I want the ability to learn about NGOs and the work that they carry out. This will allow me to make an informed decision to donate or voulnteer with them. End user goal: provide a carousel element for different catagories of NGOs. Allowing the user to access links with more infomation as well as a link directly to the donation page. Acceptance criteria: Allow the user to easily browse through different ngos and navigate to their sites via links. Measurement of success:
+* As a user of the Support Change website I want to visualise the impact of donations and voluntary work in different communities. End user goal: Provide a gallery of images demonstrating the work the NGOs are carrying out. Acceptance criteria: Have a visually pleasing gallery page for the user to see the potential impact of their donation. Measurement of success:
+* 
+
+
 << user stories here - don't be stingy on this 😅 you can even put down your expectations as a developer in this forum >>
 ​
 ## Technology:
+
+### Tech Stack
 ​
-<< Detail your techstack here, and why you chose it. >>
-​
-<< list your languages & tools below: >>
-​
-*  << languages >>
-	* << list the langauge & reason for using it >>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Support%20Change&lineCount=1&line1=HTML5,HTML5,a41d4e;CSS3,CSS3,da4650;Bootstrap,Bootstrap,a85ac8;JavaScript,JavaScript,17acf8;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Support%20Change&lineCount=1&line1=HTML5,HTML5,a41d4e;CSS3,CSS3,da4650;Bootstrap,Bootstrap,a85ac8;JavaScript,JavaScript,17acf8;)
+
+### Languages:
+
+*HTML: HTML was used to create the basic architecture of our website.
+*CSS: We used CSS to style our HTML elements, making them more eye catching to improve the user experience.
+*JavaScript:We chose JavaScript to generate an eyecatching and well presented website, providing a high quality user experience.
+*Bootstrap: Boostrap enables building of webpages quickly, which is key in short turnaround project.
 ​
 * << tools >>
   * << list the tool & reason for using it >>
