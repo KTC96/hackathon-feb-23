@@ -4,7 +4,6 @@ body {
     color: #3a3a3a;
 }
 
- main
 img {
     object-fit: contain
 }
@@ -34,8 +33,7 @@ footer{
     margin: 1%;
     padding: 1%;
     color: #3a3a3a;
-    
-=======
+}
 /* Navbar */
 
 .navbar {
@@ -62,5 +60,9 @@ footer{
     margin: 0;
     padding: 0;
     width: 100%;
- main
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: center;
 }
