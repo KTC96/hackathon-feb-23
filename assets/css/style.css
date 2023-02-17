@@ -1,7 +1,41 @@
 body {
     background-color: white;
+    font-family: Rokkitt, Cormorant Garamond, Spinnaker, sans-serif;
+    color: #3a3a3a;
 }
 
+ main
+img {
+    object-fit: contain
+}
+
+footer{
+    height: 150px;
+    color: #3a3a3a;
+    
+}
+
+.credits {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 1%;
+    color: #3a3a3a;
+    
+=======
 /* Navbar */
 
 .navbar {
@@ -28,4 +62,5 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
+ main
 }
