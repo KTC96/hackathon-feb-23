@@ -4,6 +4,11 @@ body {
 
 #carousel {
     height: 500px;
-    width: 500px;
-    margin: 50px
+    width: 100%;
+}
+
+.carousel-container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
