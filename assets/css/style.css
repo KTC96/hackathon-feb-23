@@ -4,7 +4,6 @@ body {
     color: #3a3a3a;
 }
 
- main
 img {
     object-fit: contain
 }
@@ -61,6 +60,13 @@ footer{
     margin: 0;
     padding: 0;
     width: 100%;
+ tanise
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+=======
  main
 }
 
@@ -170,4 +176,5 @@ textarea.form_control {
     border-radius: 0px;
     display: inline-block;
     width: auto;
+main
 }
