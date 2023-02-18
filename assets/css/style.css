@@ -4,6 +4,11 @@ body {
     background-color: white;
     font-family: Spinnaker, Cormorant Garamond, Rokkitt, sans-serif;
     color: #3a3a3a;
+    position: relative;
+}
+
+main {
+    padding: 15px;
 }
 
 img {
@@ -20,9 +25,9 @@ footer{
     width: 100%;
     position: absolute;
     bottom: 0;
+    clear: both;
     margin: 0;
     padding: 10px 0;
-    margin-bottom: 15px;
     background-color: #cdc392;
 }
 
@@ -67,12 +72,14 @@ footer{
 /* Carousel */
 
 #carousel {
-    height: 500px;
     width: 100%;
+    clear: both;
 }
 
 .carousel-container {
-    margin: 20px 0;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 75px;
     padding: 0;
     width: 100%;
 }
