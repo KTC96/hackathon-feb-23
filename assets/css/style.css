@@ -13,7 +13,9 @@ img {
 footer{
     height: 150px;
     color: #3a3a3a;
-    
+    width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 
 .credits {
@@ -21,16 +23,16 @@ footer{
     text-align: center;
 }
 
-.social-networks{
+.github-pages{
     text-align: center;
 
 }
 
-.social-networks li{
+.github-pages li{
     display: inline;
 }
 
-.social-networks i{
+.github-pages i{
     font-size: 160%;
     margin: 1%;
     padding: 1%;
