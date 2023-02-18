@@ -245,5 +245,7 @@ textarea.form_control {
 
 
 .error-image {
-   background: url('../images/404.png')
+   background: url('../images/404.png') center no-repeat center;
+   background-size: cover;
+
 }
