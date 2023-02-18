@@ -16,9 +16,14 @@ img {
 }
 
 footer{
-    height: 150px;
     color: #3a3a3a;
-    
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    background-color: #cdc392;
 }
 
 .credits {
@@ -26,19 +31,22 @@ footer{
     text-align: center;
 }
 
-.social-networks{
+.github-pages {
     text-align: center;
-
+    margin: 0;
 }
 
-.social-networks li{
+.github-pages li{
     display: inline;
 }
 
-.social-networks i{
-    font-size: 160%;
-    margin: 1%;
-    padding: 1%;
+.github-pages li p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.github-pages i{
+    font-size: 150%;
     color: #3a3a3a;
 }
 /* Navbar */
