@@ -10,6 +10,11 @@ img {
     object-fit: contain
 }
 
+/* landing section */
+#img-landing {
+    border-radius: 10px;
+}
+
 footer{
     height: 150px;
     color: #3a3a3a;
@@ -59,7 +64,7 @@ footer{
 }
 
 .carousel-container {
-    margin: 0;
+    margin: 20px 0;
     padding: 0;
     width: 100%;
 }
