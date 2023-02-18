@@ -69,6 +69,22 @@ footer{
     justify-content: center;
 }
 
+/* Gallery page */
+
+#photo {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    margin-right: 20px;
+    margin-left: 20px
+}
+
+.gallery{
+    max-width: 450px;
+    object-fit: scale-down;
+    padding: 10px;
+}
+
 
 /*contact us page*/
 .banner_area {
