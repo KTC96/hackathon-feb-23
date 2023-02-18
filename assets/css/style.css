@@ -240,3 +240,10 @@ textarea.form_control {
     display: inline-block;
     width: auto;
 }
+
+/* 404 page */ 
+
+.error-image {
+   width: 100%;
+   height:100%; 
+}
