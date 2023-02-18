@@ -10,6 +10,11 @@ img {
     object-fit: contain
 }
 
+/* landing section */
+#img-landing {
+    border-radius: 10px;
+}
+
 footer{
     color: #3a3a3a;
     width: 100%;
@@ -67,7 +72,7 @@ footer{
 }
 
 .carousel-container {
-    margin: 0;
+    margin: 20px 0;
     padding: 0;
     width: 100%;
 }
@@ -75,6 +80,22 @@ footer{
 .card-wrapper {
     display: flex;
     justify-content: center;
+}
+
+/* Gallery page */
+
+#photo {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    margin-right: 20px;
+    margin-left: 20px
+}
+
+.gallery{
+    max-width: 450px;
+    object-fit: scale-down;
+    padding: 10px;
 }
 
 
