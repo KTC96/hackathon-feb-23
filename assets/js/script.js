@@ -17,7 +17,7 @@ for(let category of ngosCategories) {
     }
     carouselNgos += `'>
                                 <div class="card-wrapper">
-                                <div class="card"">
+                                <div class="card">
                                   <img src="assets/images/ngos/${currentCategory[i].image}" class="d-block w-100 img-card" alt="${currentCategory[i].name} Logo" height="200px" width="200px">
                                   <div class="card-body">
                                     <h5 class="card-title">${currentCategory[i].name}</h5>
