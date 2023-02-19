@@ -122,6 +122,7 @@ footer{
 } 
 
 .image-container {
+    max-width: 450px;
     position: relative;
     display: inline-block;
   }
