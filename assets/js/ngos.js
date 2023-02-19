@@ -195,6 +195,37 @@ const ngos = [
   "link": "https://www.four-paws.org/",
   "donationLink": "https://donate.four-paws.org/s/",
   "category": "Animal Welfare"
+},
+{
+  "name": "National Resources Defense Council",
+  "description": "NRDC is a non-profit organization that works to protect the environment, wildlife, and public health. They also advocate for strong environmental laws and policies.",
+  "image": "nrdc.png",
+  "link": "https://www.nrdc.org/",
+  "donationLink": "https://action.nrdc.org/donation/771-support-nrdc?initms=HOMERB&ms=HOMERB&_ga=2.142286257.265554035.1676828047-1213191235.1676828046",
+  "category": "Environmental"
+},
+{
+  "name": "Ocean Conservancy",
+  "description": "works to protect the world's oceans and marine life. They advocate for the protection of important ocean habitats and the sustainable use of ocean resources.",
+  "image": "oc.png",
+  "link": "https://oceanconservancy.org/",
+  "donationLink": "https://donate.oceanconservancy.org/page/92465/donate/1?ea.tracking.id=23ZPBPEAXX",
+  "category": "Environmental"
+},
+{
+  "name": "Marine Conservation Society",
+  "description": "UK-based charity dedicated to protecting the ocean and its wildlife through scientific research, lobbying, and education.",
+  "image": "mcs.png",
+  "link": "https://www.mcsuk.org/",
+  "donationLink": "https://www.mcsuk.org/make-a-donation/",
+  "category": "Environmental"
+},
+{
+  "name": "Friends of the Earth",
+  "description": "UK-based environmental charity working to protect and restore the environment. They work to address climate change and promote sustainable development.",
+  "image": "friendso.png",
+  "link": "https://friendsoftheearth.uk/",
+  "donationLink": "https://friendsoftheearth.uk/donate/donate-today",
+  "category": "Environmental"
 }
-
 ]
