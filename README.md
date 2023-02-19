@@ -79,21 +79,15 @@ Detail plans and scope of project here....
 ​
 ### Wireframes:
 ​
-<details>
-<summary>- Mobile Wireframes:</summary>
-​
+#### Mobile Wireframes:
 [Link to Mobile Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=0%3A1&t=LFn11uRQHsI98C9S-0)
 ![wireframes Mobile](/assets/images/mobile.png)
 ​
-</details>
-​
-<details>
-<summary>- Desktop Wireframes:</summary>
+#### Desktop Wireframes:
 ​
 [Link to Desktop Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=16%3A59&t=LFn11uRQHsI98C9S-0)
 ​![wireframes desktop](/assets/images/desktop.png)
 ​
-</details>
 ​
 ## Deployment
 << detail deployment methods used here, and any extraneous circumstances to run the project locally >>
