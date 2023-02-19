@@ -1,6 +1,6 @@
 /* Script which contains the different NGO's */
 
-const ngosCategories = ["Activism", "Animal Welfare", "Environmental", "Humanitarian"];
+const ngosCategories = ["Children", "Animal Welfare", "Environmental", "Humanitarian"];
 
 // Category = add the type of category
 const ngos = [
@@ -18,7 +18,7 @@ const ngos = [
     "image": "save_the_children.jpeg",
     "link": "https://www.savethechildren.net/",
     "donationLink": "https://donate.savethechildren.org/en/donate/donate",
-    "category": "Humanitarian"  
+    "category": "Children"  
   },
   {
     "name": "Oxfam",
@@ -42,7 +42,7 @@ const ngos = [
     "image": "st_jude.png",
     "link": "https://www.stjude.org/",
     "donationLink": "https://www.stjude.org/donate/donate-to-st-jude.html",
-    "category": "Humanitarian" 
+    "category": "Children" 
   },
   {
     "name": "Irish Refugee Council",
@@ -74,7 +74,7 @@ const ngos = [
   "image": "gosh.png",
   "link": "https://www.gosh.org/",
   "donationLink": "https://www.gosh.org/donate/",
-  "category": "Humanitarian"  
+  "category": "Children"  
 },
 {
   "name": "The British Heart Foundation",
@@ -106,7 +106,7 @@ const ngos = [
   "image": "unicefuk.png",
   "link": "https://www.unicef.org.uk/",
   "donationLink": "https://www.unicef.org.uk/donate/syria-turkiye-earthquake/",
-  "category": "Humanitarian"  
+  "category": "Children"  
 },
 {
   "name": "Sea-Watch",
@@ -146,7 +146,7 @@ const ngos = [
   "image": "wwf-logo.png",
   "link": "https://www.wwf.org.uk/",
   "donationLink": "https://support.wwf.org.uk/donate-to-wwf",
-  "category": "Environmental"
+  "category": "Animal Welfare"
 },
 {
   "name": "Greenpeace",
@@ -171,6 +171,30 @@ const ngos = [
   "link": "https://www.rainforest-alliance.org/",
   "donationLink": "https://give.rainforest-alliance.org/give/291977/?&_ga=2.101878913.184566053.1676804435-1170181138.1676804435#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav",
   "category": "Environmental"
+},
+{
+  "name": "Barnardos",
+  "description": "To deliver services and work with families, communities, and our partners to transform the lives of vulnerable children who are affected by adverse childhood experiences.",
+  "image": "barnardos.png",
+  "link": "https://www.barnardos.ie/",
+  "donationLink": "https://www.barnardos.ie/how-you-can-help/fundraising/donate/make-a-donation",
+  "category": "Children"
+},
+{
+  "name": "ISPCA",
+  "description": "The ISPCA is Ireland’s largest national animal welfare charity, and represents a number of affiliated member societies.",
+  "image": "ispca-logo.png",
+  "link": "https://www.ispca.ie/",
+  "donationLink": "https://www.ispca.ie/donate/once_off",
+  "category": "Animal Welfare"
+},
+{
+  "name": "Four Paws",
+  "description": "Our vision is a world where humans treat animals with respect, empathy and understanding.",
+  "image": "four-paws.png",
+  "link": "https://www.four-paws.org/",
+  "donationLink": "https://donate.four-paws.org/s/",
+  "category": "Animal Welfare"
 }
 
-];
+]
