@@ -1,6 +1,6 @@
 /* Script which contains the different NGO's */
 
-const ngosCategories = ["Activism", "Animal Welfare", "Environmental", "Humanitarian"];
+const ngosCategories = ["Children", "Animal Welfare", "Environmental", "Humanitarian"];
 
 // Category = add the type of category
 const ngos = [
@@ -18,7 +18,7 @@ const ngos = [
     "image": "save_the_children.jpeg",
     "link": "https://www.savethechildren.net/",
     "donationLink": "https://donate.savethechildren.org/en/donate/donate",
-    "category": "Humanitarian"  
+    "category": "Children"  
   },
   {
     "name": "Oxfam",
@@ -42,7 +42,7 @@ const ngos = [
     "image": "st_jude.png",
     "link": "https://www.stjude.org/",
     "donationLink": "https://www.stjude.org/donate/donate-to-st-jude.html",
-    "category": "Humanitarian" 
+    "category": "Children" 
   },
   {
     "name": "Irish Refugee Council",
@@ -74,7 +74,7 @@ const ngos = [
   "image": "gosh.png",
   "link": "https://www.gosh.org/",
   "donationLink": "https://www.gosh.org/donate/",
-  "category": "Humanitarian"  
+  "category": "Children"  
 },
 {
   "name": "The British Heart Foundation",
@@ -106,7 +106,7 @@ const ngos = [
   "image": "unicefuk.png",
   "link": "https://www.unicef.org.uk/",
   "donationLink": "https://www.unicef.org.uk/donate/syria-turkiye-earthquake/",
-  "category": "Humanitarian"  
+  "category": "Children"  
 },
 {
   "name": "Sea-Watch",
@@ -146,7 +146,7 @@ const ngos = [
   "image": "wwf-logo.png",
   "link": "https://www.wwf.org.uk/",
   "donationLink": "https://support.wwf.org.uk/donate-to-wwf",
-  "category": "Environmental"
+  "category": "Animal Welfare"
 },
 {
   "name": "Greenpeace",
