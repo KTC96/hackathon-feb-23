@@ -140,5 +140,37 @@ const ngos = [
   "donationLink": "https://www.amnesty.org/en/donate/",
   "category": "Humanitarian"  
 },
+{
+  "name": "World Wide Fund for Nature",
+  "description": "Working to stop destruction of nature and to help recover it.",
+  "image": "wwf-logo.png",
+  "link": "https://www.wwf.org.uk/",
+  "donationLink": "https://support.wwf.org.uk/donate-to-wwf",
+  "category": "Environmental"
+},
+{
+  "name": "Greenpeace",
+  "description": "Greenpeace is a movement of people who are passionate about defending the natural world from destruction.",
+  "image": "greenpeace-logo.png",
+  "link": "https://www.greenpeace.org/global/",
+  "donationLink": "https://www.greenpeace.org.uk/support-us/",
+  "category": "Environmental"
+},
+{
+  "name": "Conservation International",
+  "description": "Works with scientists, local communities and practitioners in the field to protect nature, global biodiversity and human communities.",
+  "image": "ci_logo.png",
+  "link": "https://www.conservation.org/",
+  "donationLink": "https://action.conservation.org/KZ_85D9j1keSOQmawof3vA2?sourceid=1041102&SelectedFrequency=4&recurringam=50&ms=/",
+  "category": "Environmental"
+},
+{
+  "name": "Rainforest Alliance",
+  "description": "Building an alliance to protect forests, improve the livelihoods of farmers and forest communities and help to mitigate the climate crisis.",
+  "image": "rainforest-alliance-logo.png",
+  "link": "https://www.rainforest-alliance.org/",
+  "donationLink": "https://give.rainforest-alliance.org/give/291977/?&_ga=2.101878913.184566053.1676804435-1170181138.1676804435#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav",
+  "category": "Environmental"
+}
 
 ];
