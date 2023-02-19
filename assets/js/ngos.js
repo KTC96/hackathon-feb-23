@@ -171,6 +171,30 @@ const ngos = [
   "link": "https://www.rainforest-alliance.org/",
   "donationLink": "https://give.rainforest-alliance.org/give/291977/?&_ga=2.101878913.184566053.1676804435-1170181138.1676804435#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav",
   "category": "Environmental"
+},
+{
+  "name": "Barnardos",
+  "description": "To deliver services and work with families, communities, and our partners to transform the lives of vulnerable children who are affected by adverse childhood experiences.",
+  "image": "barnardos.png",
+  "link": "https://www.barnardos.ie/",
+  "donationLink": "https://www.barnardos.ie/how-you-can-help/fundraising/donate/make-a-donation",
+  "category": "Children"
+},
+{
+  "name": "ISPCA",
+  "description": "The ISPCA is Ireland’s largest national animal welfare charity, and represents a number of affiliated member societies.",
+  "image": "ispca-logo.png",
+  "link": "https://www.ispca.ie/",
+  "donationLink": "https://www.ispca.ie/donate/once_off",
+  "category": "Animal Welfare"
+},
+{
+  "name": "Four Paws",
+  "description": "Our vision is a world where humans treat animals with respect, empathy and understanding.",
+  "image": "four-paws.png",
+  "link": "https://www.four-paws.org/",
+  "donationLink": "https://donate.four-paws.org/s/",
+  "category": "Animal Welfare"
 }
 
-];
+]
