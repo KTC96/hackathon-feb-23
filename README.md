@@ -2,7 +2,7 @@
 ​
 ## Team Name: Code In Action
 ​
-[Link to Deployed Project](<<add_deployed_link_to_project_here>>)
+[Link to Deployed Project](https://ktc96.github.io/hackathon-feb-23/index.html)
 ​
 ## Contents
 ​

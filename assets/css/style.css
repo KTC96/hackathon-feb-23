@@ -187,11 +187,12 @@ footer{
     margin-right: auto;
 }
 
+/*
 .form_area {
     padding-top: 120px;
     padding-bottom: 120px;
 }
-
+*/
 .form_inner {
     display: flex;
     flex-wrap: wrap;
