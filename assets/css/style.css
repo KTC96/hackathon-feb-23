@@ -5,6 +5,7 @@ body {
     font-family: Spinnaker, Cormorant Garamond, Rokkitt, sans-serif;
     color: #3a3a3a;
     position: relative;
+    height: 100vh;
 }
 
 main {
@@ -105,12 +106,8 @@ footer{
 
 /* Gallery page */
 
-#photo {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    gap: 10px;
-    margin-right: 20px;
-    margin-left: 20px
+#photos {
+    flex-grow: 1;
 }
 
 .gallery{
@@ -262,4 +259,10 @@ textarea.form_control {
 .image-size {
    max-width: 760px;
    max-height: 760px;
+}
+
+@media screen and (max-width:768px) {
+    .gallery {
+        width: 100%;
+    }
 }
