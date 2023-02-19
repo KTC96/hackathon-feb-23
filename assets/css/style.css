@@ -45,18 +45,21 @@ footer{
 .github-pages {
     text-align: center;
     margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
-.github-pages li{
+.socials {
     display: inline;
 }
 
-.github-pages li p {
+.socials p {
     margin: 0;
     font-size: 12px;
 }
 
-.github-pages i{
+.socials i {
     font-size: 150%;
     color: #3a3a3a;
 }
