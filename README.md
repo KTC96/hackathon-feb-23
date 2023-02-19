@@ -82,18 +82,16 @@ Detail plans and scope of project here....
 <details>
 <summary>- Mobile Wireframes:</summary>
 ​
-<< put all your mobile wireframes here... >>
-​
-<< consider adding some notes to detail the planned components or functionality >>
+[Link to Mobile Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=0%3A1&t=LFn11uRQHsI98C9S-0)
+![wireframes Mobile](/assets/images/mobile.png)
 ​
 </details>
 ​
 <details>
 <summary>- Desktop Wireframes:</summary>
 ​
-<< put all your mobile wireframes here... >>
-​
-<< consider adding some notes to detail the planned components or functionality >>
+[Link to Desktop Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=16%3A59&t=LFn11uRQHsI98C9S-0)
+​![wireframes desktop](/assets/images/desktop.png)
 ​
 </details>
 ​
