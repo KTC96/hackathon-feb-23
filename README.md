@@ -11,12 +11,21 @@
 * [User Experience (UX)](#user-experience)
   * [User Stories](#user-stories)
 * [Technology](#technology)
+  * [Tech Stack](#tech-stack)
+  * [Languages](#languages)
+* [Initial MVP Idea](#initial-mvp-idea)
+  * [Actual idea & content](#actual-idea--content)
+  * [Future Development](#future-development)
 * [Design](#design)
   * [Color Scheme](#color-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
+    * [Logo](#logo)
   * [Wireframes](#wireframes)
 * [Deployment & Usage](#deployment)
+  * [Remote Deployment](#remote-deployment)
+  * [How To Fork](#how-to-fork)
+  * [How To Clone](#how-to-clone)
 * [Testing](#testing)
 * [Credits](#credits)
   * [Content](#content)
@@ -48,6 +57,9 @@
 
 * Google APP Script was used to create the contact form.
 * Bootstrap: Boostrap enables building of webpages quickly, which is key in short turnaround project.
+* Git
+* GitHub
+* GitHub Pages
 
 ### Languages:
 
@@ -67,7 +79,7 @@
   * [tinypng](https://tinypng.com/): tinypng was used to compress file size
 
 ​
-## Initial MVP idea:
+## Initial MVP Idea:
 ​
 Following the initial team meeting, project ideas were shared and the agreed idea was to work on creating a platform to connect people with existing NGOs and promote the work that they do. 
 ​
@@ -92,6 +104,12 @@ There is a contact us page where users can contact us.
         - js > 
             - script.js file
             - ngos.js file
+
+### Future Development:
+
+* It would be nice to include database connection where all the messages from Contact Us would be save.
+* We would love to create an Events page where users would create local volunteer events. The users could create and search for events on their area.
+* Connect to a Map API to display the event location.
 ​
 ## Design
 ​
@@ -113,7 +131,7 @@ Rokkitt, Cormorant Garamond and Spinnaker were identified as suitable fonts to b
 
 [Pexels](https://www.pexels.com/) was used to source copyright free images for the website gallery and [tinypng](https://tinypng.com/) was used to compress file size
 ​
-### Logo:
+#### Logo:
 
 [LogoMakr](https://logomakr.com/app/476zty) was used to create the SupportChange logo
 
@@ -170,7 +188,7 @@ To clone the repository:
   * I clicked on the Contact Us and it took me to the contact.html page
 ![Navbar](docs/navbar.JPG)
 
-* Footer: ALl the links on the footer are working.
+* Footer: All the links on the footer are working.
   * I clicked on the link of each developer GitHub and it open a new tab with their GitHub page.
   ![Footer](docs/footer.JPG)
 
