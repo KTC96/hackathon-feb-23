@@ -227,5 +227,38 @@ const ngos = [
   "link": "https://friendsoftheearth.uk/",
   "donationLink": "https://friendsoftheearth.uk/donate/donate-today",
   "category": "Environmental"
+},
+{
+  "name": "World Animal Protection",
+  "description": "It is an international animal welfare organization that works to protect animals and end animal suffering.",
+  "image": "wap.png",
+  "link": "https://www.worldanimalprotection.org/",
+  "donationLink": "https://secure.worldanimalprotection.org.uk/get-involved/donate/~my-donation?_ga=2.197437551.1546894885.1676833269-1310008308.1676833269",
+  "category": "Animal Welfare"
+},
+{
+  "name": "HSUS",
+  "description": "It works to end animal cruelty, promote animal welfare, and protect wild animals and habitats.",
+  "image": "hsus.png",
+  "link": "https://www.humanesociety.org/",
+  "donationLink": "https://secured.humanesociety.org/page/81880/donate/1?ea.tracking.id=web_topnav_donate&_gl=1*1afo4nq*_ga*OTc3NTUzODExLjE2NzY4MzM0Mjg.*_ga_DGPX92WLR5*MTY3NjgzMzQyNy4xLjEuMTY3NjgzMzQyNy42MC4wLjA.*_fplc*Z1hHaElrVVBTeVdKdUo2RlVBRkJ5RnQxQTgyZGJtMUpTNWRWd2JDJTJGQVhMamE3WE5RTnFTdW1pcFZQQnk3aUV5NTNXaXZNekNoT0NMRjdjWTZ0ciUyRjkyNzQlMkJwend2OTM5MDRqeHVnNTZQZnQyJTJCM3hqTmZuU3J3U0RVYlA5aVElM0QlM0Q.",
+  "category": "Animal Welfare"
+},
+{
+  "name": "The Donkey Sanctuary",
+  "description": "It is a UK-based charity that works to protect and improve the welfare of donkeys and mules around the world.",
+  "image": "donkey.png",
+  "link": "https://www.thedonkeysanctuary.org.uk/",
+  "donationLink": "https://www.thedonkeysanctuary.org.uk/support-us/donate",
+  "category": "Animal Welfare"
+},
+{
+  "name": "Wildlife SOS",
+  "description": "works to protect and conserve wildlife, while also providing veterinary care and rescue services.",
+  "image": "wildlife-sos.png",
+  "link": "http://wildlifesos.org/",
+  "donationLink": "https://give.wildlifesos.org/page/16138/donate/1",
+  "category": "Animal Welfare"
 }
+
 ]
