@@ -114,7 +114,9 @@ pexels.com was used to source copyright free images for the website gallery and 
 << detail deployment methods used here, and any extraneous circumstances to run the project locally >>
 ​
 ## Testing
-<< detail testing logs here - any known bugs, and squashed bugs 🐛🐛 >>
+
+![image](https://user-images.githubusercontent.com/119696542/219959799-0a22e587-05f0-4a4e-a9c9-de9ac45f4c5f.png)
+
 ​
 ## Credits
 ​
