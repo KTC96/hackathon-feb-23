@@ -19,7 +19,6 @@
 * [Deployment & Usage](#deployment)
 * [Testing](#testing)
 * [Credits](#credits)
-  * [Code](#code)
   * [Content](#content)
   * [Media](#media)
   * [Acknowledgements](#acknowledgements)
@@ -164,8 +163,32 @@ To clone the repository:
 ​
 ## Testing
 
-* Navbar
+* Navbar: All the links on the navbar are working.
+  * I clicked on the logo and it took me to the index.html page
+  * I clicked on the Home and it took me to the index.html page
+  * I clicked on the Gallery and it took me to the gallery.html page
+  * I clicked on the Contact Us and it took me to the contact.html page
+![Navbar](docs/navbar.JPG)
 
+* Footer: ALl the links on the footer are working.
+  * I clicked on the link of each developer GitHub and it open a new tab with their GitHub page.
+  ![Footer](docs/footer.JPG)
+
+* Home: All the NGOs cateogries and links are working.
+  * I clicked on the carousels navigation arrow and all eight are working.
+  * I clicked on the Read More About button and it took me to the NGO's website.
+  * I clicked on the Donate button and it took me to the NGO's donate page on their website.
+![Index](docs/ngos.JPG)
+
+* Gallery: All the images on the Gallery are working. When I hover the mouse on the images, its opacity changes and a description text is showed on the center of the image.
+![Gallery](docs/gallery.JPG)
+
+* Contact Us: When I fill up the form and send a message it saves on the [Google Sheets](https://docs.google.com/spreadsheets/d/1k61zMHuYCb3y-qw4eo3G3CBcmMBDaMDuITubdiS4D4M/edit#gid=0) file that keeps all the messages.
+![Contact Us](docs/contact.JPG)
+![Google Sheet](docs/google_sheets.JPG)
+
+* 404: When I try to access a page that does not exist, the 404.html page is showed.
+![404 Page](docs/404.JPG)
 ​
 ## Credits
 
