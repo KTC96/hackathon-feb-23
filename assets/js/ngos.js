@@ -259,6 +259,30 @@ const ngos = [
   "link": "http://wildlifesos.org/",
   "donationLink": "https://give.wildlifesos.org/page/16138/donate/1",
   "category": "Animal Welfare"
+},
+{
+  "name": "Child Fund International",
+  "description": "It is a global non-profit organization that works to improve the lives of disadvantaged children and their families.",
+  "image": "cfi.png",
+  "link": "https://www.childfund.org/",
+  "donationLink": "https://www.childfund.org/ways-to-donate/",
+  "category": "Children"
+},
+{
+  "name": "Children International",
+  "description": "It is a U.S.-based organization that works to improve the lives of children in poverty.",
+  "image": "children-int.png",
+  "link": "https://www.children.org/",
+  "donationLink": "https://www.children.org/make-a-difference/donate",
+  "category": "Children"
+},
+{
+  "name": "Plan International",
+  "description": "It is an international development charity that works to advance children's rights and equality for girls.",
+  "image": "plan-int.png",
+  "link": "https://plan-international.org/",
+  "donationLink": "https://plan-international.org/get-involved/",
+  "category": "Children"
 }
 
 ]
