@@ -91,7 +91,7 @@ Rokkitt, Cormorant Garamond and Spinnaker were identified as suitable fonts to b
 ​
 ### Imagery:
 
-pexels.com was used to source copyright free images for the website gallery
+pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size
 ​
 ### Logo:
 
