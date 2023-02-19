@@ -54,29 +54,50 @@
 ​
 ## Initial MVP idea:
 ​
-Detail plans and scope of project here....
-​
-<< consider talking about how you planned as a team here and what tools were implemented >>
+Following the initial team meeting, project ideas were shared and the agreed idea was to work on creating a platform to connect people with existing ngos and promote the work that they do. 
 ​
 ### Actual idea & content:
 ​
-<< how does you final product/project match up to your initial mvp plans >>
+The main aim of the website is to help users find ngos that they can donate to and or find more info about the organisation.
+There is a gallery page to showcase the work of the ngos and how peoples donations are enabling them to do the work they do.
+There is a contact us page where ngos can contact us to get added to the site.
 ​
-<< detail idea / features / functionality here >>
+- File structure:
+    
+    - index.html
+    - gallery.html
+    - contact.html
+    - 404.html (error handling)
+    - assets folder >
+        - images > 
+            - ngos > ngo logo images
+            - all copyright free images
+        - css > style.css file
+        - js > 
+            - script.js file
+            - ngos.js file
 ​
 ## Design
 ​
 ### Color Scheme:
-<< detail your color palette here >>
+The colour palette uses colours from the world ngo day logo to represent that the SupportChange website supports ngos
+
+- #C05224
+- #4D9B74
+- #348754 
 ​
 ### Typography:
-<< what font pairings did your team consider and pick? And why? >>
+Rokkitt, Cormorant Garamond and Spinnaker were identified as suitable fonts to be used on the website
 ​
 ### Imagery:
-<< Detail imagery used to compliment your build & theme >>
+
+pexels.com was used to source copyright free images for the website gallery and tinypng was used to compress file size
 ​
-<< ensure source attribution is maintained, and that you have used copyright free material >>
-​
+### Logo:
+
+![image](https://user-images.githubusercontent.com/119696542/219957185-b65ea843-f9d2-49c5-b205-566eb2746e44.png)
+
+
 ### Wireframes:
 ​
 #### Mobile Wireframes:

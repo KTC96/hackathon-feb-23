@@ -6,7 +6,7 @@ for(let category of ngosCategories) {
   carouselNgos += `<div class="container-fluid carousel-container col-lg-6">
                             <div class="carousel">
                             <h2 class="text-success">${category}</h2>
-                                <div id="carousel${category}" class="carousel carousel-dark slide" data-bs-ride="true">
+                                <div id="carousel${category.replace(" ", "")}" class="carousel carousel-dark slide" data-bs-ride="true">
                                     <div class="carousel-inner">`;
   let currentCategory = ngos.filter((el) => el.category === category);
 
@@ -30,11 +30,11 @@ for(let category of ngosCategories) {
                               </div>`;
   }
   carouselNgos += `</div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carousel${category}" data-bs-slide="prev">
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carousel${category.replace(" ", "")}" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Previous</span>
                             </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carousel${category}" data-bs-slide="next">
+                            <button class="carousel-control-next" type="button" data-bs-target="#carousel${category.replace(" ", "")}" data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
                             </button>

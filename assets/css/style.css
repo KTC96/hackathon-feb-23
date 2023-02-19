@@ -92,7 +92,6 @@ footer{
 
 .card {
     width: 400px;
-    height: 400px;
 }
 
 .img-card {
@@ -101,7 +100,7 @@ footer{
 
 /* Gallery page */
 
-#photos {
+#photo {
     display: grid;
     grid-template-columns: auto auto auto;
     gap: 10px;
@@ -115,14 +114,12 @@ footer{
     padding: 10px;
 }
 
-
 .gallery:hover {
    opacity: 0.5;
    transition: opacity 0.5s;
 } 
 
 .image-container {
-    max-width: 450px;
     position: relative;
     display: inline-block;
   }
@@ -142,7 +139,7 @@ footer{
   
   .text-overlay p {
     color: black;
-    font-size: 18px;
+    font-size: 24px;
     text-align: center;
   }
 
@@ -187,12 +184,11 @@ footer{
     margin-right: auto;
 }
 
-/*
 .form_area {
     padding-top: 120px;
     padding-bottom: 120px;
 }
-*/
+
 .form_inner {
     display: flex;
     flex-wrap: wrap;
