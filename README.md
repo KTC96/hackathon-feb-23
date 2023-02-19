@@ -95,8 +95,10 @@ pexels.com was used to source copyright free images for the website gallery and 
 ​
 ### Logo:
 
+[LogoMakr](https://logomakr.com/app/476zty) was used to create the SupportChange logo
 ![image](https://user-images.githubusercontent.com/119696542/219957185-b65ea843-f9d2-49c5-b205-566eb2746e44.png)
 
+[Favicon](https://favicon.io/) was used to convert the logo to a favicon
 
 ### Wireframes:
 ​
