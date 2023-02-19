@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 let carouselNgos = "";
 
+/* load categories and NGO's from the ngos.js file
+    create carousels by category and include the NGO's for the category */
+
 for(let category of ngosCategories) {
   carouselNgos += `<div class="container-fluid carousel-container col-lg-6">
                             <div class="carousel">

@@ -1,8 +1,9 @@
 /* Script which contains the different NGO's */
 
+// Categories that the NGO's are divided
 const ngosCategories = ["Children", "Animal Welfare", "Environmental", "Humanitarian"];
 
-// Category = add the type of category
+// array of objects. Each object is a NGO
 const ngos = [
   {
     "name": "Direct Relief",

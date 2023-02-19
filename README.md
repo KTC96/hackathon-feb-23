@@ -96,7 +96,7 @@ pexels.com was used to source copyright free images for the website gallery and 
 ### Logo:
 
 [LogoMakr](https://logomakr.com/app/476zty) was used to create the SupportChange logo
-![image](https://user-images.githubusercontent.com/119696542/219957185-b65ea843-f9d2-49c5-b205-566eb2746e44.png)
+![image](docs/logo.png)
 
 [Favicon](https://favicon.io/) was used to convert the logo to a favicon
 
@@ -104,12 +104,12 @@ pexels.com was used to source copyright free images for the website gallery and 
 ​
 #### Mobile Wireframes:
 [Link to Mobile Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=0%3A1&t=LFn11uRQHsI98C9S-0)
-![wireframes Mobile](/assets/images/mobile.png)
+![wireframes Mobile](docs/wireframes/mobile.png)
 ​
 #### Desktop Wireframes:
 ​
 [Link to Desktop Wireframes](https://www.figma.com/file/raNj2O8G8HP65H6zlMibij/SupportChange?node-id=16%3A59&t=LFn11uRQHsI98C9S-0)
-​![wireframes desktop](/assets/images/desktop.png)
+​![wireframes desktop](docs/wireframes/desktop.png)
 ​
 ​
 ## Deployment
@@ -117,7 +117,7 @@ pexels.com was used to source copyright free images for the website gallery and 
 ​
 ## Testing
 
-![image](https://user-images.githubusercontent.com/119696542/219959799-0a22e587-05f0-4a4e-a9c9-de9ac45f4c5f.png)
+![image](docs/html_validation.png)
 
 ​
 ## Credits
